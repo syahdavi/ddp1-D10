@@ -1,6 +1,6 @@
-# Proyek Kelompok DDP1
+# Project Akhir Kelompok DDP1
 
-Proyek Dasar-Dasar Pemrograman 1, Semester Gasal 2026/2027.
+Project Dasar-Dasar Pemrograman 1, Semester Gasal 2026/2027.
 
 ## Anggota
 - Rifky Syahdavi Juaksha (@syahdavi)
